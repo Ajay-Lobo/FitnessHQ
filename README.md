@@ -13,11 +13,11 @@ FitnessHQ is a responsive and modern frontend template designed for gym manageme
 
 No prerequisites are needed to view the demo. Just click [here](https://ajay-lobo.github.io/FitnessHQ/) to see FitnessHQ in action.
 
-###Contributing
+### Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes.
 
-###Hashtags for Sharing
+### Hashtags for Sharing
 #FitnessHQ 
 #GymManagement 
 #FrontendTemplate 
